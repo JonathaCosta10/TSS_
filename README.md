@@ -8,4 +8,4 @@ A base dele é o reconhecimento de voz e geração de texto > Arquivo txt conten
 
 ![image](https://github.com/JonathaCosta10/TSS_/assets/69131210/eabb7b1e-9b98-400a-a9f9-ea55017ac1e8)
 
-Em outros idiomas ainda não funciona muito bem. 
+Funciona bem em portugues.
